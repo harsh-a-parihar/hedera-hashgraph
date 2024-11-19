@@ -17,7 +17,7 @@ async function environmentSetup() {
 
     //Set your account as the client's operator
     client.setOperator(myAccountId, myPrivateKey);
-
+    
     //Set the default maximum transaction fee (in Hbar)
     client.setDefaultMaxTransactionFee(new Hbar(100));
 
