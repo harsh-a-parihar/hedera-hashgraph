@@ -1,3 +1,6 @@
 [submodule "hedera-example-metamask-token-associator"]
 	path = hedera-example-metamask-token-associator
 	url = https://github.com/hedera-dev/hedera-example-metamask-token-associator.git
+[submodule "hedera-dapp-days"]
+	path = hedera-dapp-days
+	url = https://github.com/ed-marquez/hedera-dapp-days.git
