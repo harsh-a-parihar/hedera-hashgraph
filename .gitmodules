@@ -4,3 +4,6 @@
 [submodule "hedera-dapp-days"]
 	path = hedera-dapp-days
 	url = https://github.com/ed-marquez/hedera-dapp-days.git
+[submodule "hedera-example-metamask-counter-dapp"]
+	path = hedera-example-metamask-counter-dapp
+	url = https://github.com/ed-marquez/hedera-example-metamask-counter-dapp.git
